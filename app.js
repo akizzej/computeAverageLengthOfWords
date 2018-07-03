@@ -4,3 +4,7 @@ Ejemplo de entrada:
 
 var output = computeAverageLengthOfWords('code', 'programs');
 console.log(output); // --> 6*/
+function computeAverageLengthOfWords(word1, word2){
+    //se declara funcion 
+    
+}
